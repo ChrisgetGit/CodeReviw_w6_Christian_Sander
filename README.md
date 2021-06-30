@@ -1,4 +1,4 @@
-# JAVA_CodeReview_w6_Christian_Sander
+# JAVA_CodeReview_w6_ChristianS
 
     (25 points) Use 4 steps for database development process - ensure that your database is in 3rd Normal Form. Ensure 
     that all elements given as bold in the task description (Task description: Mail Delivery Service) are covered in 
